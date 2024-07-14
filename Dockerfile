@@ -1,4 +1,4 @@
-# Base image olarak OpenJDK 8 kullanıyoruz
+# Base image olarak OpenJDK 8 kullanıyoruzz
 FROM openjdk:8-jdk
 
 # GlassFish 4.1.1'in indirilmesi ve kurulması
